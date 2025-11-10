@@ -60,6 +60,7 @@ def hero_section() -> rx.Component:
                     ml="4",),
                     href="https://github.com/rafpsyDev",
                 ),
+                rx.color_mode.button(),
                 spacing="2",
             ),
         ),
